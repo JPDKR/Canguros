@@ -1,0 +1,64 @@
+D:\Código\Canguros.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Código\Canguros.Api\bin\Debug\net6.0\appsettings.json
+D:\Código\Canguros.Api\bin\Debug\net6.0\Canguros.Api.exe
+D:\Código\Canguros.Api\bin\Debug\net6.0\Canguros.Api.deps.json
+D:\Código\Canguros.Api\bin\Debug\net6.0\Canguros.Api.runtimeconfig.json
+D:\Código\Canguros.Api\bin\Debug\net6.0\Canguros.Api.dll
+D:\Código\Canguros.Api\bin\Debug\net6.0\Canguros.Api.pdb
+D:\Código\Canguros.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Código\Canguros.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Código\Canguros.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Código\Canguros.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.csproj.AssemblyReference.cache
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.AssemblyInfoInputs.cache
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.AssemblyInfo.cs
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.csproj.CoreCompileInputs.cache
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Código\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.Canguros.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Código\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Canguros.Api.props
+D:\Código\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Canguros.Api.props
+D:\Código\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Canguros.Api.props
+D:\Código\Canguros.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Código\Canguros.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Código\Canguros.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Código\Canguros.Api\obj\Debug\net6.0\scopedcss\bundle\Canguros.Api.styles.css
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.csproj.CopyComplete
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.dll
+D:\Código\Canguros.Api\obj\Debug\net6.0\refint\Canguros.Api.dll
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.pdb
+D:\Código\Canguros.Api\obj\Debug\net6.0\Canguros.Api.genruntimeconfig.cache
+D:\Código\Canguros.Api\obj\Debug\net6.0\ref\Canguros.Api.dll
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Canguros.Api.exe
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Canguros.Api.deps.json
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Canguros.Api.runtimeconfig.json
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Canguros.Api.dll
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Canguros.Api.pdb
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Julian Podbersich\Canguros.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.csproj.AssemblyReference.cache
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.AssemblyInfoInputs.cache
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.AssemblyInfo.cs
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.csproj.CoreCompileInputs.cache
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.Canguros.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Canguros.Api.props
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Canguros.Api.props
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Canguros.Api.props
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\scopedcss\bundle\Canguros.Api.styles.css
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.csproj.CopyComplete
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.dll
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\refint\Canguros.Api.dll
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.pdb
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\Canguros.Api.genruntimeconfig.cache
+C:\Users\Julian Podbersich\Canguros.Api\obj\Debug\net6.0\ref\Canguros.Api.dll
